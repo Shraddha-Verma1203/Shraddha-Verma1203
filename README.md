@@ -5,6 +5,71 @@
 Building intelligent systems that combine Machine Learning, Deep Learning, and Computer Vision to solve real-world problems.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## About Me
 
 🎓 B.Tech Computer Science Student
