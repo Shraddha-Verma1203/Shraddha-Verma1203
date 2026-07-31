@@ -1,5 +1,20 @@
 # Hi, I'm Shraddha Verma 👋
 
+### AI & Machine Learning Enthusiast | B.Tech CSE | Research Intern @ NIT Goa
+
+Building intelligent systems that combine Machine Learning, Deep Learning, and Computer Vision to solve real-world problems.
+
+## About Me
+
+🎓 B.Tech Computer Science Student
+
+🧠 Summer Research Intern @ NIT Goa
+
+🤖 Passionate about AI, Machine Learning and Multimodal AI
+
+📚 Currently exploring Deep Learning, Computer Vision and LLMs
+
+🌱 I enjoy building projects that bridge research with practical applications.
 
 - Interested in Artificial Intelligence, Machine Learning, and full-stack development
 - Building projects in Python, Java, DBMS, and web technologies
