@@ -7,6 +7,20 @@ Building intelligent systems that combine Machine Learning, Deep Learning, and C
 
 ## About Me
 
+🎓 B.Tech Computer Science Student
+
+🧠 Summer Research Intern @ NIT Goa
+
+🤖 Passionate about AI, Machine Learning and Multimodal AI
+
+📚 Currently exploring Deep Learning, Computer Vision and LLMs
+
+🌱 I enjoy building projects that bridge research with practical applications.
+
+- Interested in Artificial Intelligence, Machine Learning, and full-stack development
+- Building projects in Python, Java, DBMS, and web technologies
+- Currently working on Multimodal Emotion Recognition
+- Learning by creating practical, portfolio-worthy projects
 
 Interest:
   - Artificial Intelligence
